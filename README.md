@@ -1,5 +1,5 @@
 # Automated-Door-with-a-Music-System
-Programming for Mechanical Engineers
+// Programming for Mechanical Engineers
 
 
 Designed and coded an automated door with music using Arduino and coding in Linux
